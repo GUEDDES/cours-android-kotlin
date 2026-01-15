@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    
+    <!-- MainActivity -->
+    <string name="title_contacts_list">Liste des Contacts</string>
+    <string name="empty_contacts_message">Aucun contact pour le moment.\nCliquez sur + pour ajouter un contact.</string>
+    <string name="add_contact">Ajouter un contact</string>
+    
+    <!-- AddContactActivity -->
+    <string name="title_add_contact">Nouveau Contact</string>
+    <string name="hint_name">Nom complet</string>
+    <string name="hint_phone">Téléphone</string>
+    <string name="hint_email">Email</string>
+    <string name="button_save">Enregistrer</string>
+    <string name="button_cancel">Annuler</string>
+    
+    <!-- ContactDetailActivity -->
+    <string name="title_contact_detail">Détail du Contact</string>
+    <string name="button_edit">Modifier</string>
+    <string name="button_delete">Supprimer</string>
+    <string name="button_call">Appeler</string>
+    <string name="button_email">Envoyer un email</string>
+    
+    <!-- Messages -->
+    <string name="contact_saved">Contact enregistré avec succès</string>
+    <string name="contact_deleted">Contact supprimé</string>
+    <string name="contact_updated">Contact mis à jour</string>
+    <string name="error_name_required">Le nom est requis</string>
+    <string name="error_phone_required">Le téléphone est requis</string>
+    <string name="error_email_required">L\'email est requis</string>
+    <string name="error_invalid_email">Email invalide</string>
+    
+    <!-- Confirmation dialog -->
+    <string name="dialog_delete_title">Supprimer le contact</string>
+    <string name="dialog_delete_message">Êtes-vous sûr de vouloir supprimer ce contact ?</string>
+    <string name="dialog_yes">Oui</string>
+    <string name="dialog_no">Non</string>
+    
+    <!-- Menu -->
+    <string name="menu_search">Rechercher</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="menu_about">À propos</string>
+</resources>
