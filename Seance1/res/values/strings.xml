@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nom de l'application -->
+    <string name="app_name">ContactsApp</string>
+    
+    <!-- Titres des écrans -->
+    <string name="contacts_list_title">Liste des Contacts</string>
+    <string name="contact_details">Détails du Contact</string>
+    <string name="add_contact">Ajouter un Contact</string>
+    
+    <!-- Boutons -->
+    <string name="back_button">Retour</string>
+    <string name="add_button">Ajouter</string>
+    <string name="save_button">Enregistrer</string>
+    <string name="cancel_button">Annuler</string>
+    <string name="delete_button">Supprimer</string>
+    
+    <!-- Labels -->
+    <string name="name_label">Nom</string>
+    <string name="phone_label">Téléphone</string>
+    <string name="email_label">Email</string>
+    
+    <!-- Messages -->
+    <string name="no_contacts">Aucun contact</string>
+    <string name="add_contact_message">Fonctionnalité à implémenter</string>
+    <string name="contact_added">Contact ajouté</string>
+    <string name="contact_deleted">Contact supprimé</string>
+    <string name="confirm_delete">Voulez-vous vraiment supprimer ce contact ?</string>
+    
+    <!-- Descriptions pour l'accessibilité -->
+    <string name="add_contact_description">Ajouter un nouveau contact</string>
+    <string name="contact_icon_description">Icône du contact</string>
+</resources>
