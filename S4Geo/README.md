@@ -2,7 +2,7 @@
 
 Ce projet est une application Android de démonstration pour la **Séance 4** du cours Android/Kotlin. Elle illustre l'utilisation de l'API **Fused Location Provider** pour récupérer la position de l'utilisateur et effectue du **Geocoding** pour convertir les coordonnées en adresse postale.
 
-![Architecture S4](S4.png)
+![Architecture S4](s4.png)
 
 ## Fonctionnalités
 
